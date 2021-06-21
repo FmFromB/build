@@ -1,0 +1,10 @@
+{
+  "name": "satellites-vue",
+  "version": "1.0.0",
+  "description": "Heroku App",
+  "author": "isotrop",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
